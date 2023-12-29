@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Code/lib/opencsv-5.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-commons-2.14.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-csv-1.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-collections4-4.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.12.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-spi-2.10.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-text-1.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-text-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-csv-1.10.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-text-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-beanutils-1.9.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-parsers-2.14.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-logging-1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-commons-2.10.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-spi-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-parsers-2.14.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-parsers-2.10.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-entities-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-spi-2.14.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-spi-2.14.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-1.10.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-parsers-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-commons-2.10.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-parsers-2.10.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/opencsv-5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-spi-2.10.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/opencsv-5.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-services-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-commons-2.14.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-beanutils-1.9.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/opencsv-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-spi-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-collections4-4.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/opencsv-5.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.12.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-csv-1.10.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-entities-2.14.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-parsers-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-entities-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-commons-2.10.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-1.10.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-entities-2.14.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-collections-3.2.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-collections-3.2.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-text-1.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-services-2.10.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-entities-2.10.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-commons-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-entities-2.10.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.13.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-lang3-3.13.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/commons-text-1.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Code/lib/metarParser-services-2.10.1-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
